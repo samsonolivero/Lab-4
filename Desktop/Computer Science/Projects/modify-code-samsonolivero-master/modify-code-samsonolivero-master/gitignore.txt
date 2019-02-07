@@ -1,0 +1,72 @@
+ ../../../../../.bash_history
+        ../../../../../.eclipse/
+        ../../../../../.gitconfig
+        ../../../../../.oracle_jre_usage/
+        ../../../../../.p2/
+        ../../../../../.tooling/
+        ../../../../../3D Objects/
+        ../../../../../AppData/
+        ../../../../../BrawlhallaReplays/
+        ../../../../../Contacts/
+        ../../../../A Gift Of Fire.pdf
+        ../../../../Best Camera Photos/
+        ../../../../BitTorrent.lnk
+        ../../../../Calculus - James Stewart - 8th.pdf
+        ../../../../Computer Science 1323 Fall 2018/
+        ../../../.metadata/
+        ../../../CS+2334+Schedule.xlsx
+        ../../../Homework/
+        ../../../IrfanView/
+        ../../.gitignore
+        ../../Class Day 2/
+        ../../Day 3/
+        ../../Git Hub Test/
+        ../../Lab 04/ZooTest.class
+        ../../Lab 04/gitignore.txt
+        ../../Lab 1/
+        ../../Lab 2/
+        ../../Lab 3/
+        ../../../TEst/
+        ../../../eclipse/
+        ../../../~$CS+2334+Schedule.xlsx
+        ../../../../From Camera/
+        ../../../../Git Bash/
+        ../../../../GitHub Desktop.lnk
+        ../../../../IrfanView 64 Thumbnails.lnk
+        ../../../../IrfanView 64.lnk
+        ../../../../Microsoft Edge.lnk
+        ../../../../Pcitures/
+        ../../../../Scholarships/
+        ../../../../Spotify.lnk
+        ../../../../Twitch.lnk
+        ../../../../desktop.ini
+        ../../../../eclipse/
+        "../../../../\302\265Torrent.lnk"
+        ../../../../../Documents/
+        ../../../../../Downloads/
+        ../../../../../Favorites/
+        ../../../../../IntelGraphicsProfiles/
+        ../../../../../Links/
+        ../../../../../Main.java
+        ../../../../../MicrosoftEdgeBackups/
+        ../../../../../Music/
+        ../../../../../NTUSER.DAT
+        ../../../../../NTUSER.DAT{0c8da42a-aa43-11e8-8d55-ec8eb5343e9c}.TxR.0.regtrans-ms
+        ../../../../../NTUSER.DAT{0c8da42a-aa43-11e8-8d55-ec8eb5343e9c}.TxR.1.regtrans-ms
+        ../../../../../NTUSER.DAT{0c8da42a-aa43-11e8-8d55-ec8eb5343e9c}.TxR.2.regtrans-ms
+        ../../../../../NTUSER.DAT{0c8da42a-aa43-11e8-8d55-ec8eb5343e9c}.TxR.blf
+        ../../../../../NTUSER.DAT{0c8da42b-aa43-11e8-8d55-ec8eb5343e9c}.TM.blf
+        ../../../../../NTUSER.DAT{0c8da42b-aa43-11e8-8d55-ec8eb5343e9c}.TMContainer00000000000000000001.regtrans-ms
+        ../../../../../NTUSER.DAT{0c8da42b-aa43-11e8-8d55-ec8eb5343e9c}.TMContainer00000000000000000002.regtrans-ms
+        ../../../../../OneDrive/
+        ../../../../../Pictures/
+        ../../../../../Planner.java
+        ../../../../../Saved Games/
+        ../../../../../Searches/
+        ../../../../../Tracing/
+        ../../../../../Videos/
+        ../../../../../less.exe.stackdump
+        ../../../../../ntuser.dat.LOG1
+        ../../../../../ntuser.dat.LOG2
+        ../../../../../ntuser.ini
+        ../../../../../one
