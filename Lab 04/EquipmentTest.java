@@ -10,7 +10,7 @@ public class EquipmentTest
 		Assert.assertEquals(0.0, equip.getTotalPrice());
 		Assert.assertEquals("unknown", equip.getDescription());
 	}
-	public static void main(String[] args)
+	public void Test()
 	{
 		Equipment equip = new Equipment("batarang/1,2.0,50.0,A Boomerang for Bats");
 		Equipment equip2 = new Equipment("batarang/1,2.0,50.0,A Boomerang for Bats");

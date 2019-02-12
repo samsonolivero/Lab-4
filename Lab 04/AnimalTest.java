@@ -23,7 +23,7 @@ public class AnimalTest
     }
 
     // TODO: test full constructor, getters, and toString
-    public static void main(String[] args)
+    public void Test()
     {
     	Animal animal = new Animal("Orange", "Tiger", 62.0, 20.0);
     	Animal animalTwo = new Animal("Blue", "Penguin", 30.0, 20.0);

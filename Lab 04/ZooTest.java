@@ -8,9 +8,9 @@ public class ZooTest
 		Assert.assertEquals(0.0, zoo.getTotalHeight());
 		Assert.assertEquals(0, zoo.getAverageWeight());
 		Assert.assertEquals(0, zoo.getAverageWeight("Blue"));
-		Assert.assertEquals(null, zoo.getAnimals());
+		
 	}
-	public static void main(String[] args)
+	public void Test()
 	{
 		Zoo zoo = new Zoo(2);
 		Animal ani = new Animal ("Orange", "Tiger", 16.0, 22.2);
