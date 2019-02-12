@@ -26,11 +26,16 @@ public class AnimalTest
     public static void main(String[] args)
     {
     	Animal animal = new Animal("Orange", "Tiger", 62.0, 20.0);
+    	Animal animalTwo = new Animal("Blue", "Penguin", 30.0, 20.0);
+    	Animal animalThree = new Animal("Blue", "Penguin", 30.0, 20.0);
     	System.out.println(animal.toString());
     	System.out.println("Color: " + animal.getColor());
     	System.out.println("Name: " + animal.getName());
     	System.out.println("Weight: " + animal.getWeight());
     	System.out.println("Height: " + animal.getHeight());
+    	
+    	System.out.println("Test 1: " + animal.equals(animalTwo));
+    	System.out.println("Test 2: " + animalTwo.equals(animalThree));
     	
     }
     
